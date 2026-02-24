@@ -1,4 +1,4 @@
-# USDA Text Database for LLM Training
+# AgriPestDatabase: A Text Database for LLM Training (USDA Funded Project)
 
 ## Purpose
 
