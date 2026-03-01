@@ -13,7 +13,7 @@ The repository provides both PDF and DOCX versions of pest fact sheets, making i
 
 The following insects and pests are currently included in this database:
 
-1. *Ips sexdentatus* (Six-toothed bark beetle)
+1. Six-toothed bark beetle (*Ips sexdentatus*)
 2. Asian citrus psyllid (*Diaphorina citri*)
 3. Citrus longhorned beetle (*Anoplophora chinensis*)
 4. Cotton cutworm (*Spodoptera litura*)
