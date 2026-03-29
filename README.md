@@ -35,3 +35,6 @@ The following insects and pests are currently included in this database:
 A **JSONL file** containing Question & Answer (QA) pairs derived from these pest documents is planned and will be made available in a future update for direct use in LLM fine-tuning and evaluation workflows.
 
 ## Disclaimer: This data is currently under review and should be considered as draft information. Please verify all details independently before use. Use of this information is at your own risk.
+
+## Cite our work:
+-- Durak, Yagizhan Bilal, Ahsan Ul Islam, Shahidul Islam, Ashley Morgan-Olvera, Iftekhar Ibne Basith, and Syed Hasib Akhter Faruqui. "AgriPestDatabase-v1. 0: A Structured Insect Dataset for Training Agricultural Large Language Model." arXiv preprint arXiv:2603.22777 (2026). Link: https://arxiv.org/abs/2603.22777
