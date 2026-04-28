@@ -22,6 +22,16 @@ The following insects and pests are currently included in this database:
 7. Red palm weevil (*Rhynchophorus ferrugineus*)
 8. Red ring nematode (*Bursaphelenchus cocophilus*)
 9. Redheaded pine sawfly (*Neodiprion lecontei*)
+10. European Grapevine Moth (*Lobesia botrana)
+11. Pale Cyst Nematode (*Globodera pallida)
+12. Small Brown Planthopper (*Laodelphax striatellus)
+13. Citrus Fruit Borer (*Gymnandrosoma aurantianum)
+14. Coconut Rhinoceros Beetle (*Oryctes rhinoceros)
+15. Giant African Snail (*Lissachatina fulica)
+16. Golden Twin-Spot Moth (*Chrysodeixis chalcites)
+17. New Guinea Sugarcane Weevil (*Rhabdoscelus obscurus)
+18. Oak Splendour Beetle (*Agrilus biguttatus)
+19. Spotted Lanternfly (*Lycorma delicatula)
 
 ## Data Files
 
